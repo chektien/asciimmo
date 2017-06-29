@@ -74,5 +74,4 @@ namespace CS225 {
 		}
 		std::cout << std::endl;
 	}
-
 }
